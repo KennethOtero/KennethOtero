@@ -1,4 +1,4 @@
-Hello! My name is Kenneth Otero and I am a prospective student at University of Cincinnati majoring in Information Technology - Software Development.
+Hello! My name is Kenneth Otero and I am a prospective student at the University of Cincinnati majoring in Information Technology with a concentration in software development.
 I am a recent graduate from Cincinnati State with a major in Computer Information Systems.
 
 <!---
